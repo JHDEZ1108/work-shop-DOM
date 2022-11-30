@@ -1,5 +1,5 @@
 <h1 align="center">
-Workshop 1: Fetch
+Workshop: Fetch
 </h1>
 
 This is a template to understand DOM manipulation 
