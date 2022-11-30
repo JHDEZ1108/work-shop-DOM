@@ -24,9 +24,7 @@ This is a template to understand DOM manipulation
     yarn
     ```
 
-1.  **Corre este Workshop.**
-
-    Inicia el proyecto
+1.  **Inicia el proyecto**
 
     ```sh
     yarn start
