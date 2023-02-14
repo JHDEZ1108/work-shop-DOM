@@ -5,7 +5,12 @@ Workshop: Fetch
 This is a template to understand DOM manipulation 
           by consuming an avocado API  
 
-### 🤖 Guía Rápida
+### Demo: https://work-shop-dom.netlify.app
+--------
+
+<h3 align="center">
+🤖 Guía Rápida
+</h3>
 
 1.  **Clona el repositorio.**
 
